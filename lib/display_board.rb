@@ -1,4 +1,1 @@
-def cell
-  puts ""   ", "   ", "   ""
-  ""   ", "   ", "   ""
-end
+def display_board
